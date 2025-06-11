@@ -1,0 +1,7 @@
+C:\Users\sec670\source\repos\csharprvsh\bin\x64\Release\csharprvsh.exe.config
+C:\Users\sec670\source\repos\csharprvsh\bin\x64\Release\csharprvsh.exe
+C:\Users\sec670\source\repos\csharprvsh\bin\x64\Release\csharprvsh.pdb
+C:\Users\sec670\source\repos\csharprvsh\obj\x64\Release\csharprvsh.csproj.AssemblyReference.cache
+C:\Users\sec670\source\repos\csharprvsh\obj\x64\Release\csharprvsh.csproj.CoreCompileInputs.cache
+C:\Users\sec670\source\repos\csharprvsh\obj\x64\Release\csharprvsh.exe
+C:\Users\sec670\source\repos\csharprvsh\obj\x64\Release\csharprvsh.pdb
